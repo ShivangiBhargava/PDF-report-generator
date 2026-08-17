@@ -1,0 +1,5 @@
+node_modules/
+report.db
+reports/
+.playwright-browsers/
+.DS_Store
